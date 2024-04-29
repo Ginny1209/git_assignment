@@ -8,7 +8,10 @@ c. How do I open up a pull request?
 in vscode, after the change , commit and sync, and pull the request via github
 
 d. Give me a step by step guide on how to add someone to your repository.
-select the add collabrator in the rapos, and then enter their emails.
+In the "Access" section of the sidebar, click Collaborators. 
+Click Add people. In the search field, start typing the name of person you want to invite, 
+then click a name in the list of matches. Click Add NAME to REPOSITORY. 
+The user will receive an email inviting them to the repository.
 
 e. What is the difference between git and GitHub?
 git stands for the way that coders how they track their difference versions or features.
