@@ -1,1 +1,24 @@
+a. What is an issue?
+GitHub Issues are items you can create in a repository to plan, discuss and track work.
 
+b. What is a pull request?
+to copy your change into the git
+
+c. How do I open up a pull request?
+in vscode, after the change , commit and sync, and pull the request via github
+
+d. Give me a step by step guide on how to add someone to your repository.
+select the add collabrator in the rapos, and then enter their emails.
+
+e. What is the difference between git and GitHub?
+git stands for the way that coders how they track their difference versions or features.
+github is a website based repo hosting service.
+
+f. What does git diff do?
+the command shows the difference between commits
+
+g. What is the main branch?
+The root folder
+
+h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
+yes, when we made new features, merge back to main
